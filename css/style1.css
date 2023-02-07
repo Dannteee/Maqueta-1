@@ -1,0 +1,59 @@
+*{box-sizing: border-box;}
+
+body{
+    background-color: white;
+}
+.fondoRojo{
+    background-color:transparent;
+}
+.fondoVerde{
+background-color: orange;
+}
+.altura1{
+    height: 2rem;
+}
+.altura2{
+    height: 20rem  ;
+}
+.fondoAmarillo{
+background-color: pink;
+}
+.fondoAzul{
+    background-color: pink;
+}
+.fondoNaranja{
+    background-color: pink;
+}
+.altura3{
+    height: 20rem;
+}
+.altura4{
+    height: 20rem;
+}
+.altura5{
+    height: 20rem;
+}
+.fondoGris{
+    background-color: white;
+}
+.fondoBlanco{
+ background-color: white;
+}
+.altura6{
+    height: 20rem;
+}
+.altura7{
+    height: 20rem;
+}
+.fondoBeige{
+    background-color: transparent;
+}
+.altura8{
+    height: 20rem;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-size:larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
